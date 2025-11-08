@@ -10,8 +10,7 @@ body{
     flex-wrap: wrap;
     align-content: center;
     gap: 20px;
-    background-image: url(httt.jpg);
-    background-size: cover;
+    background-color:#000000;
    
 }
 .box{
@@ -27,6 +26,6 @@ body{
     
 }
 .box:hover{
-    border: 6px solid rgb(0, 255, 162);
+    border: 6px solid #8b1ed9;
     box-shadow: 8px 9px;
 }
